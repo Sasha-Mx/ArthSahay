@@ -125,7 +125,7 @@ export default function RBIGuide() {
                             <p className="text-sm text-gray-400 leading-relaxed group-hover:text-gray-300">
                                 <strong>Loans ≤ ₹50,000:</strong> Instant approval with just a selfie & Aadhaar. 
                                 <br/>
-                                <strong>Loans > ₹50,000:</strong> Simple digital uploads (Bank Statement). No branch visits required.
+                                <strong>Loans &gt; ₹50,000:</strong> Simple digital uploads (Bank Statement). No branch visits required.
                             </p>
                         </div>
 
